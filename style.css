@@ -1,0 +1,57 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color:black
+}
+    .header{
+        background-color: #f7f8f8;
+        padding:10px;
+        padding-left: 50px;
+        text-transform: uppercase;
+        font-size: .8em;
+    }
+    a{
+        text-decoration: none;
+    }
+    .top-bar-items{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-right: 20px;
+    padding: 10px;
+    }
+    .header-bottom{
+        display: inline-block;
+        padding-top:20px;
+        margin-right: 50px;
+    }
+.select-input{
+    /* box-sizing: border-box; */
+    /* background-color: #002f34; */
+    padding:5px;
+    width:300px;
+    }
+    .search-input{
+        padding: 5px;
+        width:300px;
+    }
+    .fa-solid{
+        /* box-sizing: border-box; */
+        background-color:#002f34;
+        color:#fff;
+        padding:12px;
+        border-radius: 5px;
+    }
+    /* .sell-button{
+        background-color: #fff;
+        margin-left: 100px;
+        border-bottom: 1px solid #3a7ff1;
+        border-top: 1px solid #3a7ff1;
+        border-left: 1px solid #3ff332;
+        border-right: 1px solid orange;
+        border-radius: 10px;
+        color:black;
+    } */
+/* .search-input{
+padding:10px;
+background-color: black;} */
